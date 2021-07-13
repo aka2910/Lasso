@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1613516200 source:c:\lassoaka\bomb.cpp
+	"bomb.h"
+	"lasso.h"
+
+1613516200 c:\lassoaka\bomb.h
+	"MovingObject.h"
+
+1613510745 c:\lassoaka\movingobject.h
+	<simplecpp>
+	<vector>
+	<composite.h>
+	<sprite.h>
+
+1613716022 c:\lassoaka\lasso.h
+	"MovingObject.h"
+	"coin&num.h"
+
+1613576618 c:\lassoaka\coin.h
+	"MovingObject.h"
+
+1613576662 source:c:\lassoaka\coin.cpp
+	"coin.h"
+	"lasso.h"
+
+1613716023 source:c:\lassoaka\lasso.cpp
+	<simplecpp>
+	<string>
+	"MovingObject.h"
+	"lasso.h"
+	"coin&num.h"
+
+1614530270 source:c:\lassoaka\main.cpp
+	<simplecpp>
+	<bits/stdc++.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"MovingObject.h"
+	"lasso.h"
+	"coin&num.h"
+	"highscore.h"
+	"numgame.h"
+	"design.h"
+
+1614530184 c:\lassoaka\highscore.h
+	<fstream>
+
+1613555110 source:c:\lassoaka\movingobject.cpp
+	<simplecpp>
+	"MovingObject.h"
+
+1613478427 source:c:\lassoaka\number.cpp
+
+1613483981 c:\lassoaka\number.h
+	"MovingObject.h"
+
+1613678517 c:\lassoaka\numgame.h
+
+1613576618 c:\lassoaka\coin&num.h
+	"MovingObject.h"
+
+1613679657 source:c:\lassoaka\coin&num.cpp
+	"coin&num.h"
+	"lasso.h"
+
+1614504504 source:c:\lassoaka\design.h
+
+1614516129 c:\lassoaka\design.h
+
+1613679657 source:c:\project submission\coin&num.cpp
+	"coin&num.h"
+	"lasso.h"
+
+1613576618 c:\project submission\coin&num.h
+	"MovingObject.h"
+
+1613510745 c:\project submission\movingobject.h
+	<simplecpp>
+	<vector>
+	<composite.h>
+	<sprite.h>
+
+1613716022 c:\project submission\lasso.h
+	"MovingObject.h"
+	"coin&num.h"
+
+1613716023 source:c:\project submission\lasso.cpp
+	<simplecpp>
+	<string>
+	"MovingObject.h"
+	"lasso.h"
+	"coin&num.h"
+
+1614530270 source:c:\project submission\main.cpp
+	<simplecpp>
+	<bits/stdc++.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"MovingObject.h"
+	"lasso.h"
+	"coin&num.h"
+	"highscore.h"
+	"numgame.h"
+	"design.h"
+
+1614530184 c:\project submission\highscore.h
+	<fstream>
+
+1613678517 c:\project submission\numgame.h
+
+1614516129 c:\project submission\design.h
+
+1613555110 source:c:\project submission\movingobject.cpp
+	<simplecpp>
+	"MovingObject.h"
+
